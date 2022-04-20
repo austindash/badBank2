@@ -1,0 +1,24 @@
+a:hover {
+  background-color: lightgreen;
+  font-family: arial bold;
+}
+
+body {
+    background-color: lightcyan ;
+}
+
+.navatd {
+    background-color: powderblue;
+}
+
+.cardatd {
+    text-align: center;
+    background-color: lightgreen;
+    font-family: arial bold;
+}
+
+.atd {
+    margin-left: auto;
+    margin-right: auto;
+}
+
